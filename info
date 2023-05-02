@@ -1,0 +1,12 @@
+{
+    "student": [
+        {
+            "name": "Chella Jane Cabigquez",
+            "age": 21,
+            "qoutes": "Learn as if you will live forever, live like you will die tomorrow. — Mahatma Gandhi",
+            "classSection": "BSIT 3A",
+            "classCode": "T221",
+            "institutionalEmail": "2001102080@student.buksu.edu.ph"
+        }
+     ]
+}
